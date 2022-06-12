@@ -1,4 +1,4 @@
-# Learnexia1
+# Learnexia
 Yazılım Mühendisliğinde Güncel Konular Projesi / Çocuklar İçin Öğrenme Uygulaması - LEARNEXIA
 
 
